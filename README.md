@@ -18,8 +18,10 @@ For the past few years my focus is **testing AI-powered features**: LLM evaluati
 - **Test architecture:** *the frameworks and runners under the tests.* model-based testing (xState) · property-based testing (Schemathesis, Hypothesis, fast-check) · Pydantic schemas
 
 ## From the blog
-<!-- BLOG-POST-LIST:START -->
-- New writing on testing AI systems lands here.
+<!-- BLOG-POST-LIST:START -->- [The Golden Dataset: Building the Oracle You Test Against](https://www.mariusargatu.com/blog/the-golden-dataset/)
+- [The Harness Is the Product: Models Are a Commodity](https://www.mariusargatu.com/blog/the-harness/)
+- [The System Under Test: A Broadband Support Agent](https://www.mariusargatu.com/blog/the-system-under-test/)
+- [Your Evals Are Checks, Not Tests](https://www.mariusargatu.com/blog/your-evals-are-checks-not-tests/)
 <!-- BLOG-POST-LIST:END -->
 
 → [Read everything on mariusargatu.com/blog](https://www.mariusargatu.com/blog)
